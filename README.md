@@ -1,8 +1,12 @@
-# Hey there! <img src="https://media.giphy.com/media/J60klcdfVdpryi1u78/giphy.gif" width="50">
+# Hey there!<img src="https://media.giphy.com/media/J60klcdfVdpryi1u78/giphy.gif" width="50">
+
 
 My name is Luiz Otávio Lima and I am a Mechanical Engineer 🔧. I've been introduced to Big Data / Data Science world recently and I loved it.
+<img align='right' src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="250">
 
 ***All of my goals derive from my passion for problem solving and helping others. I am always ready to accept new challenges and changes.*** 💪
+
+
 
 - 📍 Colombo, PR, Brazil 
 - 👨‍💻 Product Analyst at [Renault do Brasil](https://www.renault.com.br/grupo-renault.html)
