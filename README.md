@@ -4,7 +4,7 @@ My name is Luiz Otávio Lima and I am a Mechanical Engineer 🔧. I've been intr
 
 ***All of my goals derive from my passion for problem solving and helping others. I am always ready to accept new challenges and changes***
 
-- 📍 Colombo, PR, Brazil 🇧🇷
+- 📍 Colombo, PR, Brazil 
 - 👨‍💻 Product Analyst at [Renault do Brasil](https://www.renault.com.br/grupo-renault.html)
 
 You can contact me 👇
