@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, I'm Luiz Otávio Lima 👋
 
 <!--
 **luizolima/luizolima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
