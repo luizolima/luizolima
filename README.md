@@ -19,9 +19,10 @@ I'm a Mechanical Engineer 🔧 from Brazil and passionate about stuff like Artif
   
 ---
 ⚡ Hobbies
- - 🎮 Games
- - 🎵 Music
- - 🏋️ Gym
+ - 🎮 Games;
+ - 🎵 Music;
+ - 🏋️ Gym;
+ - 📺 TV Series, Movies and Animes.
 ---
 
 Feel free to contact me ☺
