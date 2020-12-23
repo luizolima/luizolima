@@ -17,9 +17,12 @@ I'm a Mechanical Engineer 🔧 from Brazil and passionate about stuff like Artif
   - 📕 Businees Analytics
   - 📊 Data Visualization and Dashboard with Tableau and Power BI.
   
-  ---
-  ⚡ Hobbies
-  
+---
+⚡ Hobbies
+ - 🎮 Games
+ - 🎵 Music
+ - 🏋️ Gym
+---
 
 Feel free to contact me ☺
 
