@@ -1,7 +1,8 @@
 # Hey there! I'm Luiz Otávio Lima<img src="https://media.giphy.com/media/J60klcdfVdpryi1u78/giphy.gif" width="40">
 
 
-I am a Mechanical Engineer 🔧 and passionate about Data Science.
+I'm a Mechanical Engineer 🔧 from Brazil and passionate about stuff like Artificial Intelligence and Data Science.
+
 <img align='right' src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="250">
 
 ***All of my goals derive from my passion for problem solving and helping others. I am always ready to accept new challenges and changes.*** 💪
@@ -11,7 +12,7 @@ I am a Mechanical Engineer 🔧 and passionate about Data Science.
 - 📍 Colombo, PR, Brazil 
 - 👨‍💻 Product Analyst at [Renault do Brasil](https://www.renault.com.br/grupo-renault.html)
 
-Find me elsewhere 🌎
+Find me elsewhere 🌐
 
 [![Twitter Badge](https://img.shields.io/badge/-@luizoflima-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/luizoflima)](https://twitter.com/luizoflima)
 [![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Otávio%20Lima-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-ot%C3%A1vio-f-lima-59bb57131//)](https://www.linkedin.com/in/luiz-ot%C3%A1vio-f-lima-59bb57131/)
