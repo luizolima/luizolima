@@ -14,7 +14,7 @@ I'm a Mechanical Engineer 🔧 from Brazil and passionate about stuff like Artif
   - 📙 Big Data Analytics;
   - 📓 Mathematics and Statistics;
   - 📗 Machine Learning with R and Python;
-  - 📕 Businees Analytics
+  - 📕 Businees Analytics;
   - 📊 Data Visualization and Dashboard with Tableau and Power BI.
   
 ---
