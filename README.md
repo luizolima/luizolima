@@ -14,7 +14,7 @@ I'm a Mechanical Engineer 🔧 from Brazil and passionate about stuff like Artif
   - 📙 Big Data Analytics;
   - 📓 Mathematics and Statistics;
   - 📗 Machine Learning with R and Python;
-  - 📕 Businees Analytics;
+  - 📕 Business Analytics;
   - 📊 Data Visualization and Dashboard with Tableau and Power BI.
  - 😜 My languages: Portuguese <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/flag-brazil_1f1e7-1f1f7.png" width="20">, English <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/flag-united-states_1f1fa-1f1f8.png" width="20"> and a little bit of French <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/271/flag-france_1f1eb-1f1f7.png" width="20">.
 
