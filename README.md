@@ -1,7 +1,7 @@
 # Hey there! I'm Luiz Otávio Lima<img src="https://media.giphy.com/media/J60klcdfVdpryi1u78/giphy.gif" width="40">
 
 
-I'm a Mechanical Engineer 🔧 from Brazil and passionate about stuff like Data Science and Machine Learning.
+I'm a Mechanical Engineer 🔧 from Brazil and passionate about stuff like Data Science.
 
 <img align='right' src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="250">
 
