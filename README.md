@@ -5,8 +5,7 @@
 ***All of my goals derive from my passion for problem solving and helping others. I am always ready to accept new challenges and changes.*** 💪
 
 - 📍 Colombo, PR, Brazil 
-- 👨‍💻 Data Analyst at [DBC Company](https://www.dbccompany.com.br/en/)
-- Working for [Grupo Renner](https://www.lojasrennersa.com.br/en_us/home?locale=en_US)
+- 👨‍💻 Data Analyst at [DBC Company](https://www.dbccompany.com.br/en/) | 💻 Working for [Grupo Renner](https://www.lojasrennersa.com.br/en_us/home?locale=en_US)
 - 📚 Currently learning and growing my skillset in Data Science and Machine Learning. 
   - 📘 R, Python and SQL;
   - 📙 Big Data Analytics;
