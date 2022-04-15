@@ -1,14 +1,12 @@
 # Hey there! I'm Luiz Otávio Lima<img src="https://media.giphy.com/media/J60klcdfVdpryi1u78/giphy.gif" width="40">
 
-
-I'm a Mechanical Engineer 🔧 from Brazil and passionate about stuff like Data Science.
-
 <img align='right' src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="250">
 
 ***All of my goals derive from my passion for problem solving and helping others. I am always ready to accept new challenges and changes.*** 💪
 
 - 📍 Colombo, PR, Brazil 
-- 👨‍💻 Product Analyst at [Renault do Brasil](https://www.renault.com.br/grupo-renault.html)
+- 👨‍💻 Data Analyst at [DBC Company](https://www.dbccompany.com.br/en/)
+- Working for [Grupo Renner](https://www.lojasrennersa.com.br/en_us/home?locale=en_US)
 - 📚 Currently learning and growing my skillset in Data Science and Machine Learning. 
   - 📘 R, Python and SQL;
   - 📙 Big Data Analytics;
